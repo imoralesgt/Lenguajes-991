@@ -37,3 +37,4 @@ class bus(automovil):
 
     def convierteDistancia(self, distancia):
         return float(distancia) / (self.rendimiento*((self.MAX_PASAJEROS - self.pasajeros))*.2)
+
