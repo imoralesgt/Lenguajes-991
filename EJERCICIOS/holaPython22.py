@@ -84,3 +84,4 @@ def benchmark():
     print '\n\nMedia: ' +str(mean)
     print 'Minimo: '+str(min(data))
     print 'Maximo: '+str(max(data))
+
