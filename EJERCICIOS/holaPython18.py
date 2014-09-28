@@ -42,3 +42,4 @@ def division(n1, n2):
         print 'Error: Ambos caracteres deben ser numericos'
     except:
         print 'Error desconocido'
+
