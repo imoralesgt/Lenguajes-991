@@ -20,3 +20,4 @@ void loop()
   Serial.println(temp%10);
   delay(500);
 }
+
