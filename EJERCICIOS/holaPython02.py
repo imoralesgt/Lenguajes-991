@@ -63,3 +63,4 @@ if bandera == True:
 
 else:
     print "Ambas entradas deben ser numeros"
+
