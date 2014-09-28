@@ -33,3 +33,4 @@ def recibeTCP(ip='127.0.0.1', port=666):
 data = None
 thread.start_new_thread(contar, (500,0.5))
 recibeTCP()
+
