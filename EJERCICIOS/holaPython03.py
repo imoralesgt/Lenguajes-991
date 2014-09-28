@@ -29,3 +29,5 @@ elif ((n>=A_INICIAN) and (n<=A_TERMINAN)):
     print "Altas"
 else:
     print "Usted metio la bola blanca. Esta no tiene numero!"
+
+	
