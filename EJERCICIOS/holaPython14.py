@@ -112,3 +112,4 @@ charm = particulaFundamental("Quark CHARM", 2.0/3.0, 1.0/2.0, 1.3)
 strange = particulaFundamental("Quark STRANGE", -1.0/3.0, -1.0/2.0, 0.1)
 top = particulaFundamental("Quark TOP", 2.0/3.0, 1.0/2.0, 175)
 bottom = particulaFundamental("Quark BOTTOM", -1.0/3.0, -1.0/2.0, 4.3)
+
