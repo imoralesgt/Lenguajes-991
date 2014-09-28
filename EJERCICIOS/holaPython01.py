@@ -39,3 +39,4 @@ if b.isdigit(): #Si el texto ingresado es un numero
     b = int(b)  #Se hace type casting de forma segura
 
 print 'b es de tipo',str(type(b)) #'type' devuelve el tipo de la variable/objeto
+
