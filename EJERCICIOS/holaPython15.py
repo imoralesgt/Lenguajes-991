@@ -80,3 +80,4 @@ try:
     print temperaturas.getTemp()
 except:
     temperaturas.closeUART()
+
