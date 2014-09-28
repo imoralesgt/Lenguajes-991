@@ -1,7 +1,7 @@
 Lenguajes-991
 =============
 
-Lenguajes de Programacion Aplicados a Ingenieria Electronica
+Lenguajes de Programación Aplicados a Ingeniería Electrónica
 
 
 Aquí encontrará el código fuente relacionado con los ejercicios resueltos en clase.
