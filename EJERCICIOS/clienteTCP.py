@@ -17,3 +17,4 @@ while True:
     cnt += 1
     time.sleep(1) #Una vez cada segundo
 s.close()
+
