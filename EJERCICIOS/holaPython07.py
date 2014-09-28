@@ -13,3 +13,4 @@ def sumaPorDefecto(n1, n2 = 0):
 def sumaPorDefecto2(n1, n2, n3, n4 = 1, n5 = 1):
     x = n1 + n2 + n3 + n4 + n5
     return x
+
