@@ -39,3 +39,4 @@ def fileRead(fileName = 'MiTexto.txt'):
         print line, #Imprimir linea por linea del archivo leido
 
     archivo.close() #Cerrar el archivo al finalizar
+
