@@ -68,3 +68,4 @@ print '\nPara insertar multiples elementos a una lista'
 animales.extend(['Tiburon', 'Cobra', 'Murcielago'])
 print 'animales.extend([\'Tiburon\', \'Cobra\', \'Murcielago\'])'
 print animales
+
