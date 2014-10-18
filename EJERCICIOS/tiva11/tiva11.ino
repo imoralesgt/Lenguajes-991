@@ -41,8 +41,8 @@ void loop()
   cm = microsecondsToCentimeters(duration);
   PWMWrite(AUDIO_PIN, 255, 127, (cm+100)*4); //PIN, RESOLUTION, DUTY CYCLE, FREQUENCY
 
-  //Serial.print(cm);
-  //Serial.println("cm");
+  Serial.print(cm);
+  Serial.println("cm");
   
   delay(25);
 }
