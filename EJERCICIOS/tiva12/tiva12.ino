@@ -1,5 +1,6 @@
 //Sensor de presion atmosferica y temperatura (BMP180)
 //Utilizado tambien para calcular altura (msnm)
+//Descargar libreria de: https://github.com/astuder/BMP085-template-library-Energia
 
 #include <Wire.h>          // Requerida por BMP085/BMP180 para I2C
 #include <BMP085_t.h>
